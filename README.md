@@ -1,7 +1,7 @@
 # Strategic AI: Bridging Game Theory and Multi-Agent Systems via Autoformalization
 
 <p align="center">
-  <img src="assets/banner.png" width="80%">
+  <img src="assetes/banner.png" width="80%">
 </p>
 
 ### 🎲 Day 1: Introduction to Game Theory and MAS
