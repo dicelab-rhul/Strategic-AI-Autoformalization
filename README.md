@@ -29,11 +29,14 @@
 
 ### 🗂️ Day 2: The Game Description Language (GDL) Part 1
   - **📜 Introduction to GDL**
-    - Origins and role in general game-playing AI.
-    - Support for games without prior knowledge.
-  - **⏳ Temporal Extensions**
-    - Represent dynamic game states over time.
-    - Relationship to other action formalisms.
+    - What is GDL.
+    - Logic programming foundations.
+  - **⏳ GDL 1.0**
+    - Syntactic variations.
+    - Game independent vocabulary
+    - Formalising an Example in GDL: Prisoner's dilemma.
+    - The idea of the Game Manager
+    - Observations
   - **⚙️ Compiling GDLs**
     - Use of Situation Calculus and Event Calculus.
     - Reasoning about legality and effects of actions.
