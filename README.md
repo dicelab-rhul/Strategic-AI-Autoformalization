@@ -32,10 +32,10 @@
     - What is GDL.
     - Logic programming foundations.
   - **⏳ GDL 1.0**
-    - Syntactic variations.
-    - Game independent vocabulary
+    - Syntactic Variations.
+    - Game Independent Vocabulary.
     - Formalising an Example in GDL: Prisoner's dilemma.
-    - The idea of the Game Manager
+    - The Game Manager.
     - Observations
   - **⚙️ Compiling GDLs**
     - Use of Situation Calculus and Event Calculus.
