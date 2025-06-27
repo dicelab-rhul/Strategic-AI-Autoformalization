@@ -36,21 +36,21 @@
     - Game Independent Vocabulary.
     - Formalizing an Example in GDL: Prisoner's dilemma.
     - The Game Manager.
-    - Discussion
+    - Discussion.
   - **⚙️ GDL as a Normal Logic Program**
-    - Revisiting GDL
-    - Game Independent vs Game Dependent parts
+    - Revisiting GDL.
+    - Game Independent vs Game Dependent parts.
     - Reasoning about Games in the Situation Calculus.
-    - Revisiting the Prisoner's dilemma
-    - Implemenation issues
+    - Revisiting the Prisoner's dilemma.
+    - Implemenation issues.
 
 ---
 ### 🗂️ Day 3: The Game Description Language (GDL) Part 2 and Autoformalization
   - **📜 More Advanced versions of GDL**
     - GDL 2.0 and rtGDL.
     - Representing more complex games.
-    - Using the Event Calculus
-    - Effciency considerations
+    - Using the Event Calculus.
+    - Efficiency considerations.
     - 🔮 Future integration with machine learning.
       
   - **📝 Autoformalization with LLMs**
