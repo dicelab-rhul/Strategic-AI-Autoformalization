@@ -15,15 +15,16 @@
     - Example games:
       - 🧩 Prisoner’s Dilemma
       - 🔄 Matching Pennies
-      - 🤝 Public Goods Game
-    - 🎮 Interactive simulations.
+      - 🤝 Coordination Games
+      - 🎲 Guessing Games
+    - 🎮 Participatory Games.
   - **🤖 Multi-Agent Systems (MAS)**
     - MAS principles: autonomy, social ability, learning.
     - Agent types: reactive, deliberative, hybrid.
     - 🗣️ Coordination and communication for conflict resolution and goal achievement.
     - Applications:
       - 🚗 Autonomous vehicle traffic management
-      - 🎯 Multi-agent reinforcement learning
+      - 🎯 Social Simulations
 
 ---
 
@@ -81,7 +82,7 @@
     - ToM as a benchmark for human-like reasoning.
   - **⚠️ Limitations of Standard Game Theory**
     - Unrealistic assumptions: common rationality, shared payoffs.
-    - Extensions: player types, belief hierarchies.
+    - Extensions: player types, belief hierarchies, game-theoretic ToM
   - **🎭 Hypergame Theory**
     - Captures misaligned perceptions and beliefs.
     - Models recursive reasoning ("beliefs about beliefs").
