@@ -34,22 +34,25 @@
   - **⏳ GDL 1.0**
     - Syntactic Variations.
     - Game Independent Vocabulary.
-    - Formalising an Example in GDL: Prisoner's dilemma.
+    - Formalizing an Example in GDL: Prisoner's dilemma.
     - The Game Manager.
-    - Observations
-  - **⚙️ Compiling GDLs**
-    - Use of Situation Calculus and Event Calculus.
-    - Reasoning about legality and effects of actions.
-    - Challenges like the inferential frame problem and efficiency improvements.
-  - **🎮 Applications of GDL**
-    - Game generation.
-    - Representing more complex agent interactions.
-    - 🔮 Future integration with machine learning.
+    - Discussion
+  - **⚙️ GDL as a Normal Logic Program**
+    - Revisiting GDL
+    - Game Independent vs Game Dependent parts
+    - Reasoning about Games in the Situation Calculus.
+    - Revisiting the Prisoner's dilemma
+    - Implemenation issues
 
 ---
 ### 🗂️ Day 3: The Game Description Language (GDL) Part 2 and Autoformalization
-  - **📜 GDL**
-      - TODO
+  - **📜 More Advanced versions of GDL**
+    - GDL 2.0 and rtGDL.
+    - Representing more complex games.
+    - Using the Event Calculus
+    - Effciency considerations
+    - 🔮 Future integration with machine learning.
+      
   - **📝 Autoformalization with LLMs**
     - Formalization in mathematics and autoformalization.
     - Translating natural language to logic/formal systems.
