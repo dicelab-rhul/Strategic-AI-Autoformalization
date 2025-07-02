@@ -4,6 +4,15 @@
   <img src="assetes/banner.png" width="80%">
 </p>
 
+---
+
+**🧰 Tools:**
+  - Python 3, Jupyter Notebook, SWI-Prolog for running the examples locally (please follow the [installation instructions](https://github.com/dicelab-rhul/GAMA?tab=readme-ov-file#installation)), <br>
+    or     
+  - Google Colab for cloud-based execution: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dicelab-rhul/GAMA/blob/main/tutorial/Tutorial.ipynb)
+
+---
+
 ### 🎲 Day 1: Introduction to Game Theory and MAS
   - **🚀 Motivation and Relevance**
     - Strategic interactions in AI applications: economics, robotics, autonomous vehicles, auctions, etc.
