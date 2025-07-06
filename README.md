@@ -13,7 +13,7 @@
 
 ---
 
-### 🎲 Day 1: Introduction to Game Theory and MAS
+### 🎲 Day 1: Introduction to Game Theory and MAS [<a href="https://dicelab-rhul.github.io/Strategic-AI-Autoformalization/assetes/Strategic_AI_ESSAI__25_day_1.pdf" target="_blank">Slides</a>]
   - **🚀 Motivation and Relevance**
     - Strategic interactions in AI applications: economics, robotics, autonomous vehicles, auctions, etc.
     - Challenges: non-deterministic environments, bounded rationality.
@@ -37,7 +37,7 @@
 
 ---
 
-### 🗂️ Day 2: The Game Description Language (GDL) Part 1
+### 🗂️ Day 2: The Game Description Language (GDL) Part 1 [<a href="https://dicelab-rhul.github.io/Strategic-AI-Autoformalization/assetes/Strategic_AI_ESSAI__25_day_2.pdf" target="_blank">Slides</a>]
   - **📜 Introduction to GDL**
     - What is GDL.
     - Logic programming foundations.
@@ -55,7 +55,7 @@
     - Implemenation issues.
 
 ---
-### 🗂️ Day 3: The Game Description Language (GDL) Part 2 and Autoformalization
+### 🗂️ Day 3: The Game Description Language (GDL) Part 2 and Autoformalization [<a href="https://dicelab-rhul.github.io/Strategic-AI-Autoformalization/assetes/Strategic_AI_ESSAI__25_day_3.pdf" target="_blank">Slides</a>]
   - **📜 More Advanced versions of GDL**
     - GDL 2.0 and rtGDL.
     - Representing more complex games.
@@ -70,7 +70,7 @@
 
 ---
 
-### 🤖 Day 4: Autoformalization Simulation Framework and Case Studies
+### 🤖 Day 4: Autoformalization Simulation Framework and Case Studies [<a href="https://dicelab-rhul.github.io/Strategic-AI-Autoformalization/assetes/Strategic_AI_ESSAI__25_day_4.pdf" target="_blank">Slides</a>]
   - **🔄 Natural Language to Situation Calculus**
     - Framework for translating interaction scenarios.
     - Integrates with formal solvers for logical reasoning.
@@ -85,7 +85,7 @@
 
 ---
 
-### 🧩 Day 5: Belief Hierarchies and Theory of Mind
+### 🧩 Day 5: Belief Hierarchies and Theory of Mind [<a href="https://dicelab-rhul.github.io/Strategic-AI-Autoformalization/assetes/Strategic_AI_ESSAI__25_day_5.pdf" target="_blank">Slides</a>]
   - **🧠 Theory of Mind (ToM)**
     - Modeling agents that reason about others' mental states.
     - ToM as a benchmark for human-like reasoning.
